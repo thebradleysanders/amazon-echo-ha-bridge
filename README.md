@@ -23,6 +23,8 @@ There are currently three different ways to run the pre-built jar file:
 
 **Maven -** ```mvn spring-boot:run```
 ```
+https://www.reddit.com/r/amazonecho/comments/3t3rtx/guide_setting_up_a_raspberry_pi_as_a_echo_harmony/
+
 git clone https://github.com/armzilla/amazon-echo-ha-bridge.git
 cd amazon-echo-ha-bridge
 pico src/main/resources/application.properties (edit IP to be the IP of your Pi)
